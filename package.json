@@ -7,6 +7,9 @@
     "url": "https://nocodb.com/"
   },
   "homepage": "https://github.com/nocodb/nocodb",
+  "engines": {
+    "node": "18.9.1" 
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nocodb/nocodb.git"
